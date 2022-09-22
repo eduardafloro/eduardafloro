@@ -1,16 +1,17 @@
-### Hi there 👋
+# Título 1 
+## Título 2 
+### Título 3
+#### Título 4 
+##### Título 5
+###### Título 6
+Meu nome é *Eduarda* e estou aprendendo a trabalhar com __*Markdown*__ e já aprendi a programar em ~~Portugol Studio~~
 
-<!--
-**eduardafloro/eduardafloro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lista para aprender 
+1. Github 
+2. Markdown
+3. VSCode
+4. HTML
+5. CSS
+6. Javascript
+---
+cod|descricao|versao|data 
